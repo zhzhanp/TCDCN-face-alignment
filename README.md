@@ -9,5 +9,5 @@ The provided tool is a re-implementation of the papers:
      by Deep Multi-task Learning, in Proceedings of European Conference on Computer Vision (ECCV), 2014
  
 [2] Zhanpeng Zhang, Ping Luo, Chen Change Loy, Xiaoou Tang. Learning Deep Representation for Face Alignment  
-     with Auxiliary Attributes. Technical report, arXiv:1408.3967v2, 2014.
+     with Auxiliary Attributes. to appear in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
