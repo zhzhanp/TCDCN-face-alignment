@@ -1,5 +1,6 @@
 # TCDCN face alignment tool 
-Matlab implementation of facial landmark detection by deep multi-task learning
+Matlab implementation of facial landmark detection by deep multi-task learning.
+
 For a win32 binary version (faster), please go to: http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 The provided tool is a re-implementation of the papers:
 
