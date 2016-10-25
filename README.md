@@ -2,6 +2,7 @@
 Matlab implementation of facial landmark detection by deep multi-task learning.
 
 For a Win32 binary version (faster), please go to: http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
+
 Face alignment requires the bounding box from an external face detector. You may find a useful one from here: https://github.com/kpzhang93/MTCNN_face_detection_alignment.git
 
 
